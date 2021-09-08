@@ -238,7 +238,7 @@ span.sv-viewer__empty-state-title {
     text-align: center;}
 
 span.sv-viewer__empty-state-title:after {
-    content: "Parece que aquí no hay nada, \a prueba otra búsqueda o combinación.";
+    content: "Ummmm... Parece que aquí no hay nada, \a prueba otra búsqueda o combinación.";
     white-space: pre;
     line-height: initial;
     display: block;
